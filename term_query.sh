@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 #
+# Andrea Alberti (MIT license, 2025)
+#
 # term_query.sh — query cursor shape (DECRQSS " q"), blink (DECRQM ?12), and CSI u support, a few useful modes via DECRQM
 #
 # Usage: ./term_query.sh [--passthrough]
